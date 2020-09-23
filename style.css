@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    background-color: aquamarine;
+}
+
+.box {
+    height: 300px;
+    background: azure;
+}
